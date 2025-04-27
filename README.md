@@ -28,7 +28,7 @@
 | **언어 모델** | `microsoft/Phi-3.5-mini-instruct`       |
 | **백엔드**    | FastAPI, Uvicorn                       |
 | **프론트엔드**| HTML + JavaScript (jQuery)              |
-| **실행 환경** | PyTorch + Hugging Face + GPU (CUDA) ✅  |
+| **실행 환경** | PyTorch + Hugging Face + GPU (CUDA) 🖥️  |
 
 > 본 프로젝트는 **PyTorch** 기반의 **Hugging Face 모델**을 **GPU 환경**에서 실행하며, **CPU 환경**에서는 실행 속도가 현저히 느려질 수 있습니다.
 
